@@ -1,5 +1,8 @@
 Header header
 
+time stampA					# timestamp for the "A"-part of the message; same as header.stamp
+time stampB					# timestamp for the "B"-part of the message
+
 # Lane polynomial in vehicle frame is y = a0 + a1 x + a2 x^2 + a3 x^3
 float32 a0
 float32 a1

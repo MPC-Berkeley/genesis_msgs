@@ -14,6 +14,9 @@ add_message_files(
   WheelSpeedReport.msg
   VehicleImuReport.msg
   LaneReport.msg
+  MandoObjectReport.msg
+  ESRTrackReport.msg
+  ESRValidReport.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
